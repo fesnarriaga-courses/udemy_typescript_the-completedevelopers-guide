@@ -2,5 +2,8 @@
   "name": "01_fetch-json",
   "version": "1.0.0",
   "main": "index.js",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.21.0"
+  }
 }
